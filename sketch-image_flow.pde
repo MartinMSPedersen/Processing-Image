@@ -1,7 +1,3 @@
-// Original: http://www.openprocessing.org/sketch/145401
-// adaptation to images, Tomasz Sulej, generateme.blog@gmail.com
-// Licence CC-BY-SA 3.0
- 
 // put image filename here:
 String filename = "file;
 String fileext = ".png";
