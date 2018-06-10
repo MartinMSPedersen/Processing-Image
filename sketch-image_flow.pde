@@ -6,12 +6,7 @@ String foldername = "/Users/vp/Downloads/";
 // choose channel  
 int channel = HUE; 
  
-// run, after 30 iterations result will be saved automatically
-// or press SPACE
-
-//int 1000 = 800; // viewing window size (regardless image size)
- 
-/////////////////////////////////////
+// run, after 30 iterations result will be saved automatically or press SPACE
 
 // channels to work with
 final static int RED = 0;
